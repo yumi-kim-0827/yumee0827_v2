@@ -73,11 +73,10 @@ npm install
 
 # [3] Usage
 
-- html2canvas 설치 후 지정한 영역을 캡쳐하여 이미지로 다운받을 수 있습니다.
+- 내용
 
 ```java
-
-
+코드
 ```
 
 # [4] Contribution
