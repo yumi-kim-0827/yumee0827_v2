@@ -1,18 +1,18 @@
-# 💡SCROLL RESPONSIVE WEB
+# 💡SCROLL ANIMATION WRB PAGE
 
-스크롤 원페이지 레이아웃의 기업 소개를 위한 랜딩 페이지를 디자인 기획, 퍼블리싱 구축하였습니다.
+스크롤에 따라 애니메이션이 작동되는 애플리케이션 홍보 랜딩 페이지를 디자인 기획, 퍼블리싱 구축하였습니다.
 
 # 🖥️View web site
 
-[https://yumi-kim-0827.github.io/nagunagu/](https://yumi-kim-0827.github.io/yumee0827_v2/)
+[https://yumi-kim-0827.github.io/yumee0827_v2/](https://yumi-kim-0827.github.io/yumee0827_v2/)
 
 <!--프로젝트 대문 이미지-->
-
-![q1](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/5aa8bab6-1ad2-4605-ae8c-8bff182a4a10)   
-![q2](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/5e5f4303-23a5-4718-a156-46c8b9853f99)   
-![q3](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/79d3320e-341d-4231-a16c-6ce9a49f4079)   
-![q4](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/c9e7ae57-f4ea-4728-a2c7-4894f9cb6fef)   
-![q5](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/c5e41ff3-fe83-4e5b-9f90-c804f0cffe3f)   
+![w1](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/6b6b8310-4858-452a-bd9f-a849ad13dae3)    
+![w2](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/9d96558a-59c2-418f-bdbb-cdc58489db47)   
+![w3](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/71205cdd-b610-4598-bb13-57b708f086df)   
+![w4](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/0b0d6404-5eaf-4e11-b78f-13b135566287)   
+![w5](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/1268f046-92e4-4088-8035-cc1d8034bf50)   
+ 
 <!--목차-->
 
 # Table of Contents
@@ -28,7 +28,8 @@
 
 # [1] About the Project
 
-기업 소개 홈페이지는 보통 원페이지 형식을 많이 활용합니다.   기업에 대한 비전, 서비스, 협력사에 대한 내용을 배치하였으며,   마지막 하단에 contact 입력, 방문자의 행동을 유도하였습니다.
+gsap 스크롤 감지 애니메이션 기능을 활용하여, 사용자가 스크롤을 내릴 때마다
+인터랙티브하게 반응하는 애플리케이션 홍보페이지를 디자인 기획, 퍼블리싱 구현하였습니다.
 
 ## Features
 
@@ -40,7 +41,6 @@
 - CSS3
 - GSAP
 - JS
-- 
 
 # [3] Usage
 
