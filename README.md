@@ -20,10 +20,6 @@
 - [[1] About the Project](#1-about-the-project)
   - [Features](#features)
   - [Technologies](#technologies)
-- [[2] Getting Started](#2-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
 - [[3] Usage](#3-usage)
 - [[4] Contribution](#4-contribution)
 - [[5] Acknowledgement](#5-acknowledgement)
@@ -45,31 +41,6 @@
 - GSAP
 - JS
 - 
-# [2] Getting Started
-
-## Prerequisites
-
--
-
-- npm
-
-```bash
-npm install npm@latest -g
-```
-
-## Installation
-
-1. Repository 클론
-
-```bash
-git clone https://github.com/your-username/project-repository
-```
-
-2. NPM packages 설치
-
-```bash
-npm install
-```
 
 # [3] Usage
 
