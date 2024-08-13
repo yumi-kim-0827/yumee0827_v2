@@ -1,8 +1,8 @@
-# 💡SCROLL ANIMATION WRB PAGE
+# 💡 SCROLL ANIMATION WRB PAGE
 
 스크롤에 따라 애니메이션이 작동되는 애플리케이션 홍보 랜딩 페이지를 디자인 기획, 퍼블리싱 구축하였습니다.
 
-# 🖥️View web site
+## 🖥️ View web site
 
 [https://yumi-kim-0827.github.io/yumee0827_v2/](https://yumi-kim-0827.github.io/yumee0827_v2/)
 
@@ -12,21 +12,8 @@
 ![w3](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/71205cdd-b610-4598-bb13-57b708f086df)   
 ![w4](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/0b0d6404-5eaf-4e11-b78f-13b135566287)   
 ![w5](https://github.com/yumi-kim-0827/nagunagu/assets/116349476/1268f046-92e4-4088-8035-cc1d8034bf50)   
- 
-<!--목차-->
 
-# Table of Contents
-
-- [[1] About the Project](#1-about-the-project)
-  - [Features](#features)
-  - [Technologies](#technologies)
-- [[3] Usage](#3-usage)
-- [[4] Contribution](#4-contribution)
-- [[5] Acknowledgement](#5-acknowledgement)
-- [[6] Contact](#6-contact)
-- [[7] License](#7-license)
-
-# [1] About the Project
+##  About the Project
 
 gsap 스크롤 감지 애니메이션 기능을 활용하여, 사용자가 스크롤을 내릴 때마다
 인터랙티브하게 반응하는 애플리케이션 홍보페이지를 디자인 기획, 퍼블리싱 구현하였습니다.
@@ -42,32 +29,24 @@ gsap 스크롤 감지 애니메이션 기능을 활용하여, 사용자가 스�
 - GSAP
 - JS
 
-# [3] Usage
-
-- 내용
-
-```java
-코드
-```
-
-# [4] Contribution
+## Contribution
 
 버그 수정에 🐞, 아이디어 제공에 💡, 새로운 기능 구현에 ✨를 사용할 수 있습니다.\*
 
 - (예시) 🐞 [YUMEEKIM](https://github.com/yumi-kim-0827): 메인페이지 버그 수정
 
-# [5] Acknowledgement
+## Reference
 
 - Idea https://github.com/aptheparker/diary
 
-# [6] Contact
+## Contact
 
 - 📧 yumee0827@naver.com
 - 📋 [https://github.com/yumi-kim-0827](https://github.com/yumi-kim-0827)
 
-# [7] License
-
+## License
 MIT 라이센스
+© 2024 YUMEE KIM. Published with GitHub Pages
 
 <!--Url for Badges-->
 
